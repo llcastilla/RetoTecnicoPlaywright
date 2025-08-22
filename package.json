@@ -1,0 +1,25 @@
+{
+  "name": "reto-sqa-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/cheerio": "^0.22.35",
+    "@types/node": "^24.3.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "playwright": "^1.55.0",
+    "playwright-core": "^1.55.0"
+  },
+  "description": ""
+}
